@@ -8,20 +8,15 @@
 import SwiftUI
 
 struct TitleRow: View {
-    var imageUrl = URL(string: "https://images.app.goo.gl/DLhKNa7CNDvttNFx8")
     
     var name = "Zeynep Demirtaş"
-    
-    var body: some View {
-        HStack(spacing: 20) {
-            AsyncImage(url: imageUrl) { image in
-                image.resizable()
-                    .aspectRatio(contentMode: .fill)
-                    .frame(width: 50, height: 50)
-                    .cornerRadius(50)
-            } placeholder: {
-                ProgressView()
-            }
+            
+            HStack(spacing: 20) {
+            Image("me")
+                .resizable()
+                .frame(width: 50, height: 50)
+                .cornerRadius(50)
+                
             
             VStack(alignment: .leading) {
                 Text(name)
