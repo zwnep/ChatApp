@@ -1,12 +1,9 @@
 # 💬ChatApp
 
-Firebase Firestore ile SwiftUI'de sıfırdan gerçek zamanlı güncellemelerle bir sohbet uygulaması oluşturma.
-
--Sohbet görünümünü oluşturan gerekli tüm bileşenlerin nasıl kodlandığı, 
-
--Bir Firebase projesi oluşturup nasıl yapılandırıldığı, 
-
--Firebase'i uygulamasını indirme ve gerçek zamanlı güncellemelerle Firestore'dan okuma ve Firestore'a yazma yani Firestore'a yeni bir mesaj eklendiğinde -sohbet görüşmesinin anında güncellenmesi 
+Building a chat app from scratch with real-time updates to SwiftUI with Firebase Firestore.
+-How all the necessary components that make up the chat view are coded,
+-How to create and configure a Firebase project,
+-Download Firebase app and read and write from Firestore with real-time updates -instant update of chat conversation when a new message is added to Firestore
 
 🔗 The Links I use:
 
