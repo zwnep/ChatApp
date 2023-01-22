@@ -1,6 +1,5 @@
 # 💬ChatApp
 
-
 Firebase Firestore ile SwiftUI'de sıfırdan gerçek zamanlı güncellemelerle bir sohbet uygulaması oluşturma.
 
 -Sohbet görünümünü oluşturan gerekli tüm bileşenlerin nasıl kodlandığı, 
