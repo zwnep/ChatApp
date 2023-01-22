@@ -24,9 +24,6 @@ Firebase Firestore ile SwiftUI'de sıfırdan gerçek zamanlı güncellemelerle b
 
 ➡ [scrollTo(_:anchor:) documentation]: (https://developer.apple.com/documenta...)
 
-
-
-
 👋🏻 Let's connect!
 [LinkedIn]: (https://www.linkedin.com/in/zeynep-d-89a091209/)
 
