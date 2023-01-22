@@ -1,8 +1,11 @@
 # 💬ChatApp
 
 Building a chat app from scratch with real-time updates to SwiftUI with Firebase Firestore.
+
 -How all the necessary components that make up the chat view are coded,
+
 -How to create and configure a Firebase project,
+
 -Download Firebase app and read and write from Firestore with real-time updates -instant update of chat conversation when a new message is added to Firestore
 
 🔗 The Links I use:
